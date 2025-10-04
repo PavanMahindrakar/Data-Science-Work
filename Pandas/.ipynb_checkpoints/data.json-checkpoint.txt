@@ -1,0 +1,52 @@
+[
+  {
+    "order_id": 101,
+    "customer_name": "Amit Sharma",
+    "product": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "price": 55000,
+    "purchase_date": "2025-09-10",
+    "city": "Bengaluru"
+  },
+  {
+    "order_id": 102,
+    "customer_name": "Priya Nair",
+    "product": "Headphones",
+    "category": "Accessories",
+    "quantity": 2,
+    "price": 1500,
+    "purchase_date": "2025-09-11",
+    "city": "Mumbai"
+  },
+  {
+    "order_id": 103,
+    "customer_name": "Ravi Kumar",
+    "product": "Smartphone",
+    "category": "Electronics",
+    "quantity": 1,
+    "price": 25000,
+    "purchase_date": "2025-09-12",
+    "city": "Delhi"
+  },
+  {
+    "order_id": 104,
+    "customer_name": "Sneha Patil",
+    "product": "Office Chair",
+    "category": "Furniture",
+    "quantity": 1,
+    "price": 7000,
+    "purchase_date": "2025-09-15",
+    "city": "Pune"
+  },
+  {
+    "order_id": 105,
+    "customer_name": "Rahul Mehta",
+    "product": "Keyboard",
+    "category": "Accessories",
+    "quantity": 1,
+    "price": 1200,
+    "purchase_date": "2025-09-17",
+    "city": "Chennai"
+  }
+]
