@@ -1,0 +1,312 @@
+EmployeeID,EmployeeName,Salary,Position,State,DateOfBirth,Gender,MaritalStatus,HiringDate,EmploymentStatus,Department,RecruitmentSource,PerformanceScore,EngagementSurvey,EmployeeSatisfaction,Tenure
+1,John Smith,62506,Production Technician I,MA,1983-07-10,M ,Single,2011-07-05,Active,Production       ,LinkedIn,Exceeds,4,5,14.263013698630138
+2,Sarah Johnson,104437,Sr. DBA,MA,1975-05-05,M ,Married,2015-03-30,Voluntarily Terminated,IT/IS,Indeed,Fully Meets,4,3,10.526027397260274
+3,Michael Williams,64955,Production Technician II,MA,1988-09-19,F,Married,2011-07-05,Voluntarily Terminated,Production       ,LinkedIn,Fully Meets,3,3,14.263013698630138
+4,Emily Brown,64991,Production Technician I,MA,1988-09-27,F,Married,2008-01-07,Active,Production       ,Indeed,Fully Meets,4,5,17.756164383561643
+5,David Jones,50825,Production Technician I,MA,1989-09-08,F,Divorced,2011-07-11,Voluntarily Terminated,Production       ,Google Search,Fully Meets,5,4,14.246575342465754
+6,Jessica Davis,57568,Production Technician I,MA,1977-05-22,F,Single,2012-01-09,Active,Production       ,LinkedIn,Exceeds,5,5,13.747945205479452
+7,Christopher Miller,95660,Software Engineer,MA,1979-05-24,F,Single,2014-11-10,Active,Engineering,LinkedIn,Fully Meets,3,3,10.90958904109589
+8,Ashley Wilson,59365,Production Technician I,MA,1983-02-18,M ,Widowed,2013-09-30,Active,Production       ,Employee Referral,Fully Meets,5,4,12.021917808219179
+9,Matthew Anderson,47837,Production Technician I,MA,2070-02-11,F,Single,2009-07-06,Active,Production       ,Diversity Job Fair,Fully Meets,4,3,16.26027397260274
+10,Samantha Taylor,50178,IT Support,MA,1988-01-07,M ,Divorced,2015-01-05,Active,IT/IS,Indeed,Fully Meets,5,5,10.756164383561643
+11,Daniel Martinez,54670,Production Technician I,MA,2074-01-12,F,Married,2011-01-10,Voluntarily Terminated,Production       ,Diversity Job Fair,Fully Meets,4,4,14.745205479452055
+12,Lauren Thomas,47211,Production Technician I,MA,2074-02-21,M ,Married,2012-04-02,Voluntarily Terminated,Production       ,Diversity Job Fair,Fully Meets,4,3,13.517808219178082
+13,Andrew Jackson,92328,Data Analyst,TX,1988-07-04,M ,Divorced,2014-11-10,Active,IT/IS,Diversity Job Fair,Exceeds,4,4,10.90958904109589
+14,Elizabeth Thompson,58709,Production Technician I,MA,1983-07-20,M ,Single,2012-02-20,Active,Production       ,Google Search,Fully Meets,4,4,13.632876712328768
+15,Ryan Lee,52505,Production Technician I,MA,1977-07-15,M ,Divorced,2012-09-24,Voluntarily Terminated,Production       ,On-line Web application,Fully Meets,5,5,13.038356164383561
+16,Olivia Davis,57834,Production Technician I,MA,1981-10-18,M ,Single,2011-02-21,Terminated for Cause,Production       ,Google Search,Fully Meets,5,4,14.63013698630137
+17,James Taylor,70131,Production Technician II,MA,2066-04-17,F,Married,2016-07-21,Active,Production       ,Employee Referral,Exceeds,4,3,9.213698630136987
+18,Amanda White,59026,Production Technician I,MA,2070-10-27,F,Single,2011-04-04,Active,Production       ,Google Search,Fully Meets,5,5,14.515068493150684
+19,Joshua Anderson,110000,Database Administrator,MA,1986-04-04,F,Single,2014-07-07,Terminated for Cause,IT/IS,Google Search,Fully Meets,4,4,11.254794520547945
+20,Stephanie Martinez,53250,Production Technician I,MA,1979-04-06,M ,Single,2013-07-08,Active,Production       ,LinkedIn,Fully Meets,4,4,12.252054794520548
+21,Robert Davis,51044,Production Technician I,MA,2070-12-22,M ,Single,2012-04-02,Active,Production       ,Google Search,Fully Meets,5,3,13.517808219178082
+22,Megan Thompson,64919,Production Technician I,MA,2058-12-27,F,Divorced,2013-08-19,Active,Production       ,Indeed,Fully Meets,4,3,12.136986301369863
+23,William Johnson,62910,Production Technician I,MA,1989-09-01,F,Married,2014-07-07,Active,Production       ,Indeed,Exceeds,5,3,11.254794520547945
+24,Emily Wilson,66441,Production Technician II,MA,1990-09-21,F,Single,2011-04-04,Active,Production       ,CareerBuilder,Needs Improvement,2,3,14.515068493150684
+25,Benjamin Clark,57815,Production Technician II,MA,2067-01-16,F,Single,2011-01-10,Voluntarily Terminated,Production       ,Google Search,Fully Meets,4,5,14.745205479452055
+26,Nicole Lewis,103613,Enterprise Architect,CT,2064-07-30,M ,Single,2014-02-17,Terminated for Cause,IT/IS,LinkedIn,Fully Meets,3,5,11.638356164383561
+27,Joseph Miller,106367,Sr. Accountant,MA,1987-04-04,F,Married,2015-02-16,Active,Admin Offices,Diversity Job Fair,Fully Meets,5,4,10.64109589041096
+28,Kimberly Anderson,74312,Production Manager,MA,2070-03-10,M ,Single,2013-09-30,Voluntarily Terminated,Production       ,Indeed,Fully Meets,3,3,12.021917808219179
+29,David Wilson,53492,Production Technician I,MA,1990-08-24,F,Married,2012-04-02,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,4,13.517808219178082
+30,Michelle Moore,63000,Accountant I,MA,1987-11-24,F,Married,2008-10-27,Active,Admin Offices,Diversity Job Fair,Fully Meets,4,2,16.95068493150685
+31,Daniel Harris,65288,Production Technician II,MA,1983-07-28,M ,Single,2014-09-29,Active,Production       ,Google Search,Fully Meets,3,3,11.024657534246575
+32,Tiffany Robinson,64375,Production Technician I,MA,2069-10-30,F,Separated,2013-11-11,Active,Production       ,Diversity Job Fair,Fully Meets,3,5,11.906849315068493
+33,Christopher Wilson,74326,Area Sales Manager,VA,2064-06-01,F,Married,2011-08-15,Voluntarily Terminated,Sales,Google Search,Fully Meets,3,5,14.150684931506849
+34,Rachel Martinez,63763,Production Technician II,MA,1980-03-02,F,Single,2012-03-05,Active,Production       ,Employee Referral,Fully Meets,4,4,13.594520547945205
+35,Nicholas Walker,62162,Production Technician II,MA,1977-08-19,M ,Married,2011-04-04,Active,Production       ,Indeed,Fully Meets,3,5,14.515068493150684
+36,Danielle Turner,77692,Software Engineering Manager,MA,2066-11-22,M ,Single,2011-08-15,Active,Engineering,Google Search,Fully Meets,3,3,14.150684931506849
+37,Matthew Evans,72640,Production Manager,MA,1983-08-09,M ,Single,2016-01-28,Active,Production       ,Indeed,Exceeds,5,3,9.693150684931506
+38,Christina Allen,93396,Software Engineer,MA,1987-04-05,F,Single,2013-11-11,Active,Engineering,Indeed,Fully Meets,4,4,11.906849315068493
+39,Andrew Davis,52846,Production Technician I,MA,1983-02-02,M ,Single,2014-03-31,Active,Production       ,LinkedIn,Fully Meets,4,3,11.523287671232877
+40,Heather King,100031,Sr. DBA,MA,1986-06-06,F,Single,2016-06-30,Active,IT/IS,LinkedIn,Fully Meets,5,5,9.271232876712329
+41,Jonathan Thomas,71860,Area Sales Manager,VT,2063-05-15,F,Single,2014-08-18,Active,Sales,Indeed,Fully Meets,5,5,11.139726027397261
+42,Amy Green,61656,Production Technician I,MA,2051-01-02,F,Single,2014-09-29,Active,Production       ,Google Search,Fully Meets,5,4,11.024657534246575
+43,Anthony Garcia,110929,BI Director,MA,2072-02-09,M ,Married,2016-09-06,Active,IT/IS,Indeed,Fully Meets,4,5,9.084931506849315
+44,Brittany Baker,54237,Production Technician I,MA,1979-02-12,F,Single,2014-05-12,Active,Production       ,Indeed,Fully Meets,3,4,11.408219178082192
+45,Jason Mitchell,60380,Production Technician I,MA,1983-08-24,M ,Single,2013-07-08,Active,Production       ,LinkedIn,Fully Meets,3,5,12.252054794520548
+46,Rebecca Hernandez,66808,Area Sales Manager,TX,2070-06-11,M ,Single,2012-05-14,Active,Sales,Employee Referral,Fully Meets,3,5,13.402739726027397
+47,Justin Lewis,64786,Production Technician I,MA,1983-08-27,F,Single,2011-06-27,Voluntarily Terminated,Production       ,Indeed,Fully Meets,4,4,14.284931506849315
+48,Vanessa Hall,64816,Production Technician I,MA,1988-05-31,F,Single,2011-10-03,Active,Production       ,Indeed,Fully Meets,3,5,14.016438356164384
+49,Brian Thompson,68678,IT Support,MA,1985-09-05,M ,Single,2012-09-05,Active,IT/IS,Indeed,Fully Meets,4,3,13.09041095890411
+50,Chelsea Hill,64066,Production Technician II,MA,1981-08-31,F,Married,2011-05-16,Voluntarily Terminated,Production       ,Google Search,Fully Meets,4,5,14.4
+51,Brandon Young,59369,Production Technician II,MA,1978-11-25,M ,Married,2010-08-30,Voluntarily Terminated,Production       ,Indeed,Fully Meets,4,4,15.10958904109589
+52,Amber Foster,50373,Production Technician I,MA,1980-08-26,M ,Married,2016-07-06,Active,Production       ,Employee Referral,Exceeds,4,4,9.254794520547945
+53,Timothy Harris,63108,Production Technician I,MA,1977-09-08,M ,Single,2013-07-08,Active,Production       ,Employee Referral,Fully Meets,4,5,12.252054794520548
+54,Katie Wright,59144,Production Technician I,MA,1979-08-12,M ,Single,2011-07-11,Terminated for Cause,Production       ,LinkedIn,Needs Improvement,2,3,14.246575342465754
+55,Kevin Scott,68051,Production Manager,MA,1975-12-17,M ,Divorced,2010-07-20,Active,Production       ,CareerBuilder,Needs Improvement,4,2,15.221917808219178
+56,Laura Carter,170500,Director of Operations,MA,1983-03-19,M ,Single,2009-01-05,Active,Production       ,Indeed,Exceeds,3,5,16.75890410958904
+57,Thomas Rodriguez,63381,Production Technician I,MA,1977-03-31,F,Married,2015-01-05,Active,Production       ,Indeed,Fully Meets,4,5,10.756164383561643
+58,Anna Reed,83552,Data Analyst,MA,1986-08-26,M ,Married,2015-03-30,Active,IT/IS,Indeed,Fully Meets,3,3,10.526027397260274
+59,Zachary Sanchez,56149,Production Technician I,MA,1987-04-10,F,Single,2016-07-06,Active,Production       ,LinkedIn,Fully Meets,4,5,9.254794520547945
+60,Jennifer Hughes,92329,Sr. Network Engineer,CT,2065-09-09,M ,Single,2014-11-10,Active,IT/IS,Employee Referral,Fully Meets,5,3,10.90958904109589
+61,Alexander Murphy,65729,Sales Manager,VT,1990-04-19,F,Single,2014-05-05,Active,Sales,Indeed,Fully Meets,4,4,11.427397260273972
+62,Erica Simmons,85028,Sr. Network Engineer,CT,2052-01-18,F,Married,2014-11-10,Active,IT/IS,LinkedIn,Fully Meets,3,5,10.90958904109589
+63,Jacob Murphy,57583,Production Technician I,MA,1978-11-05,F,Married,2012-07-02,Active,Production       ,Indeed,Fully Meets,5,3,13.26849315068493
+64,Melissa Edwards,56294,Production Technician II,MA,1979-09-14,M ,Single,2011-11-07,Active,Production       ,LinkedIn,Fully Meets,3,4,13.92054794520548
+65,Samuel Wright,56991,Production Technician I,MA,1988-04-15,M ,Married,2018-07-09,Active,Production       ,Indeed,Fully Meets,4,4,7.2465753424657535
+66,Maria Phillips,55722,Production Technician I,MA,1977-10-31,M ,Married,2011-05-16,Voluntarily Terminated,Production       ,Indeed,Fully Meets,5,4,14.4
+67,Tyler Davis,101199,Software Engineer,MA,1979-07-05,F,Single,2012-01-09,Active,Engineering,CareerBuilder,Fully Meets,3,5,13.747945205479452
+68,Lindsey Russell,61568,Area Sales Manager,AL,1975-11-02,M ,Single,2014-09-29,Active,Sales,Indeed,PIP,1,3,11.024657534246575
+69,Nicholas Green,58275,Production Technician II,MA,2051-02-25,F,Separated,2011-04-04,Voluntarily Terminated,Production       ,Google Search,Fully Meets,4,5,14.515068493150684
+70,Kayla Coleman,53189,Production Technician I,MA,2067-04-19,M ,Married,2014-07-07,Active,Production       ,Indeed,PIP,1,2,11.254794520547945
+71,Eric Mitchell,96820,BI Developer,MA,1983-09-04,M ,Single,2017-02-15,Active,IT/IS,Indeed,Fully Meets,3,5,8.64109589041096
+72,Shannon Bailey,51259,Production Technician I,MA,1982-11-15,M ,Single,2014-05-12,Active,Production       ,Indeed,Fully Meets,4,4,11.408219178082192
+73,Patrick Lopez,59231,Area Sales Manager,WA,1987-05-14,F,Single,2012-02-20,Active,Sales,Website,PIP,2,1,13.632876712328768
+74,Catherine Morris,61584,Production Technician I,MA,1978-12-02,F,Married,2013-01-07,Active,Production       ,Indeed,Needs Improvement,3,4,12.75068493150685
+75,Benjamin Turner,46335,Production Technician I,MA,1986-10-07,F,Single,2012-04-02,Active,Production       ,CareerBuilder,Fully Meets,3,5,13.517808219178082
+76,Holly Jenkins,70621,IT Support,MA,1988-07-18,F,Married,2015-01-05,Active,IT/IS,Employee Referral,Fully Meets,4,4,10.756164383561643
+77,Daniel Bell,138888,IT Manager - Support,MA,2070-07-09,M ,Single,2014-01-05,Active,IT/IS,Indeed,Exceeds,4,5,11.756164383561643
+78,Stephanie Price,74241,Area Sales Manager,CA,1988-11-08,F,Single,2011-01-10,Active,Sales,Indeed,Exceeds,4,5,14.745205479452055
+79,Matthew Walker,75188,Production Manager,MA,2073-11-28,F,Single,2014-09-18,Active,Production       ,Google Search,Fully Meets,4,4,11.054794520547945
+80,Brittany Cox,62514,Production Technician I,MA,2073-09-23,F,Married,2010-04-26,Active,Production       ,Google Search,Fully Meets,2,3,15.454794520547946
+81,Anthony Hall,60070,Production Technician I,MA,1991-09-05,F,Married,2011-04-04,Voluntarily Terminated,Production       ,Google Search,Fully Meets,5,3,14.515068493150684
+82,Victoria Turner,48888,Production Technician I,MA,2074-05-31,M ,Single,2014-11-10,Active,Production       ,LinkedIn,Fully Meets,4,5,10.90958904109589
+83,Christopher Wilson,54285,Production Technician I,MA,1978-08-25,M ,Married,2014-03-31,Active,Production       ,Employee Referral,Fully Meets,4,3,11.523287671232877
+84,Courtney Adams,56847,Production Technician II,MA,1989-08-25,F,Separated,2014-07-07,Active,Production       ,Indeed,PIP,3,1,11.254794520547945
+85,Justin Allen,60340,Production Technician I,MA,1983-09-02,M ,Single,2012-04-02,Terminated for Cause,Production       ,Google Search,Needs Improvement,5,4,13.517808219178082
+86,Allison Ward,59124,Production Technician I,MA,1989-05-06,F,Single,2014-02-17,Terminated for Cause,Production       ,Google Search,Needs Improvement,2,3,11.638356164383561
+87,Andrew Scott,99280,Software Engineer,MA,1987-05-15,F,Married,2011-05-02,Terminated for Cause,Engineering,Indeed,Needs Improvement,2,5,14.438356164383562
+88,Rachel Russell,71776,Production Technician II,MA,1978-09-22,F,Married,2014-07-07,Active,Production       ,LinkedIn,Fully Meets,4,5,11.254794520547945
+89,Jonathan Turner,65902,Production Technician II,MA,1987-09-27,F,Single,2014-02-17,Active,Production       ,LinkedIn,Fully Meets,4,4,11.638356164383561
+90,Erin Martinez,57748,Production Technician I,MA,2055-04-14,F,Married,2011-11-07,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,3,13.92054794520548
+91,Robert Roberts,64057,Production Technician I,MA,1989-10-18,M ,Married,2015-05-11,Active,Production       ,Indeed,PIP,1,5,10.41095890410959
+92,Megan Phillips,53366,Network Engineer,MA,1987-06-18,M ,Single,2015-03-30,Active,IT/IS,LinkedIn,PIP,1,3,10.526027397260274
+93,Joshua Rodriguez,58530,Production Technician I,MA,1981-03-16,F,Married,2012-01-09,Active,Production       ,Google Search,Fully Meets,5,5,13.747945205479452
+94,Kimberly James,72609,Production Technician II,MA,1981-10-01,M ,Single,2011-05-16,Voluntarily Terminated,Production       ,Google Search,Fully Meets,4,5,14.4
+95,William Harris,55965,Production Technician II,MA,1983-11-08,F,Married,2011-04-04,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,3,14.515068493150684
+96,Morgan Bennett,70187,Area Sales Manager,MA,1975-07-07,M ,Married,2014-09-29,Terminated for Cause,Sales,Employee Referral,PIP,2,5,11.024657534246575
+97,David Hernandez,178000,IT Director,MA,1980-07-05,M ,Single,2011-04-15,Active,IT/IS,Indeed,Exceeds,5,5,14.484931506849316
+98,Amber Patterson,99351,Sr. Accountant,MA,1979-04-16,F,Married,2009-01-05,Active,Admin Offices,Other,Fully Meets,5,3,16.75890410958904
+99,Michael Young,67251,Area Sales Manager,CT,2063-08-28,M ,Single,2011-09-06,Active,Sales,CareerBuilder,Fully Meets,4,3,14.09041095890411
+100,Megan Mitchell,65707,IT Support,CT,2068-07-06,F,Single,2010-05-01,Active,IT/IS,LinkedIn,Fully Meets,4,4,15.441095890410958
+101,Brian Clark,52249,Production Technician I,MA,1985-09-15,M ,Single,2015-03-30,Active,Production       ,Employee Referral,Fully Meets,4,3,10.526027397260274
+102,Emily Adams,53171,Production Technician I,MA,1983-12-02,F,Single,2011-05-16,Active,Production       ,LinkedIn,Fully Meets,4,4,14.4
+103,Christopher Martinez,51337,Production Technician I,MA,1990-10-01,F,Married,2015-03-30,Active,Production       ,LinkedIn,Fully Meets,3,3,10.526027397260274
+104,Jessica Foster,51505,Production Technician I,MA,2070-05-15,F,Divorced,2011-11-07,Voluntarily Terminated,Production       ,Diversity Job Fair,Fully Meets,4,4,13.92054794520548
+105,Ryan Turner,59370,Area Sales Manager,OH,2071-07-10,F,Widowed,2014-07-07,Terminated for Cause,Sales,CareerBuilder,Fully Meets,3,4,11.254794520547945
+106,Danielle Collins,54933,Production Technician I,MA,2074-08-09,M ,Married,2012-04-02,Voluntarily Terminated,Production       ,Diversity Job Fair,Needs Improvement,3,4,13.517808219178082
+107,Benjamin Campbell,57815,Production Technician I,MA,1980-05-08,F,Single,2014-09-29,Active,Production       ,Indeed,Exceeds,3,4,11.024657534246575
+108,Samantha Griffin,61555,Area Sales Manager,IN,1989-09-22,F,Single,2015-02-16,Active,Sales,Indeed,Fully Meets,4,5,10.64109589041096
+109,Joseph Nelson,114800,Database Administrator,MA,2071-10-23,F,Single,2015-02-16,Terminated for Cause,IT/IS,Indeed,Fully Meets,4,4,10.64109589041096
+110,Ashley Simmons,74679,IT Support,MA,1989-11-24,M ,Married,2015-03-30,Active,IT/IS,LinkedIn,Fully Meets,4,5,10.526027397260274
+111,Nicholas Richardson,53018,Production Technician I,MA,1992-06-18,F,Single,2013-11-11,Active,Production       ,Indeed,Fully Meets,4,5,11.906849315068493
+112,Jennifer Parker,59892,Production Technician I,MA,2069-09-29,M ,Divorced,2011-07-11,Active,Production       ,Diversity Job Fair,Exceeds,4,4,14.246575342465754
+113,John Thompson,68898,Production Technician II,MA,2064-10-12,M ,Married,2010-04-26,Voluntarily Terminated,Production       ,Diversity Job Fair,PIP,3,3,15.454794520547946
+114,Laura Wright,61242,IT Support,MA,1981-04-16,F,Separated,2015-01-05,Active,IT/IS,Employee Referral,Fully Meets,4,4,10.756164383561643
+115,Zachary Reed,66825,Production Technician II,MA,1986-05-25,F,Married,2014-05-12,Active,Production       ,LinkedIn,Fully Meets,4,3,11.408219178082192
+116,Amanda Morris,48285,Production Technician I,MA,1979-05-21,M ,Married,2012-07-02,Active,Production       ,LinkedIn,Fully Meets,5,3,13.26849315068493
+117,William Carter,66149,Production Technician II,MA,1983-12-08,F,Separated,2013-09-30,Active,Production       ,Google Search,Fully Meets,4,5,12.021917808219179
+118,Emily Lewis,49256,Production Technician I,MA,2074-10-09,F,Married,2013-08-19,Active,Production       ,LinkedIn,Fully Meets,4,5,12.136986301369863
+119,James Evans,62957,Production Manager,MA,1981-07-11,M ,Divorced,2015-06-02,Active,Production       ,Employee Referral,Fully Meets,4,3,10.35068493150685
+120,Brittany Davis,63813,Production Technician I,MA,1983-05-21,F,Divorced,2011-02-21,Voluntarily Terminated,Production       ,CareerBuilder,Fully Meets,5,5,14.63013698630137
+121,Daniel Hernandez,99020,BI Developer,MA,1989-06-30,M ,Married,2017-04-20,Active,IT/IS,Indeed,Fully Meets,4,5,8.465753424657533
+122,Amanda Hayes,71707,Area Sales Manager,TN,2069-02-09,M ,Single,2012-03-07,Voluntarily Terminated,Sales,LinkedIn,Fully Meets,4,5,13.58904109589041
+123,Matthew Reed,54828,Production Technician I,MA,1977-03-23,F,Married,2011-11-28,Active,Production       ,Google Search,Fully Meets,4,4,13.863013698630137
+124,Erica Bell,64246,Production Technician II,MA,1988-08-10,M ,Single,2013-11-11,Active,Production       ,LinkedIn,Fully Meets,5,3,11.906849315068493
+125,Christopher Scott,52177,Production Technician I,MA,2052-08-18,F,Single,2012-01-09,Voluntarily Terminated,Production       ,CareerBuilder,Fully Meets,4,4,13.747945205479452
+126,Sarah Hill,62065,Production Technician I,MA,2074-05-02,F,Married,2014-05-12,Active,Production       ,CareerBuilder,Exceeds,4,4,11.408219178082192
+127,David Parker,46998,Production Technician I,MA,1984-01-04,M ,Single,2012-08-13,Active,Production       ,Google Search,Fully Meets,4,4,13.153424657534247
+128,Christina Russell,68099,Production Technician II,MA,2072-08-27,F,Single,2011-01-10,Voluntarily Terminated,Production       ,CareerBuilder,Fully Meets,5,3,14.745205479452055
+129,Michael Phillips,70545,Area Sales Manager,NH,1988-09-14,M ,Married,2014-08-18,Active,Sales,Indeed,Fully Meets,3,5,11.139726027397261
+130,Lauren King,63478,Production Technician II,MA,1984-02-16,F,Married,2011-08-15,Voluntarily Terminated,Production       ,Indeed,Fully Meets,3,5,14.150684931506849
+131,Joshua Lewis,97999,Database Administrator,MA,1984-02-21,F,Single,2015-03-30,Active,IT/IS,Indeed,Fully Meets,4,5,10.526027397260274
+132,Stephanie Wilson,180000,Director of Sales,RI,2066-03-17,F,Married,2014-05-05,Active,Sales,LinkedIn,Fully Meets,4,4,11.427397260273972
+133,Jason Garcia,49920,Administrative Assistant,MA,1985-09-16,F,Married,2015-02-16,Terminated for Cause,Admin Offices,Indeed,Fully Meets,3,3,10.64109589041096
+134,Rebecca Green,55425,Production Technician I,MA,1986-06-10,F,Single,2012-02-20,Active,Production       ,LinkedIn,Fully Meets,4,4,13.632876712328768
+135,Andrew Taylor,69340,Production Technician II,MA,1984-03-11,F,Single,2016-06-06,Active,Production       ,LinkedIn,Fully Meets,3,5,9.336986301369864
+136,Jessica Wright,64995,Production Technician II,MA,1992-05-07,F,Separated,2015-06-05,Active,Production       ,Indeed,Fully Meets,4,3,10.342465753424657
+137,Robert Lopez,68182,Production Technician II,MA,1976-09-22,F,Divorced,2011-02-21,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,3,14.63013698630137
+138,Melissa Bennett,83082,Production Manager,MA,1976-11-15,M ,Married,2011-02-21,Voluntarily Terminated,Production       ,Indeed,Needs Improvement,2,2,14.63013698630137
+139,William Adams,51908,Production Technician I,MA,1991-01-28,F,Single,2013-08-19,Active,Production       ,Indeed,Fully Meets,3,3,12.136986301369863
+140,Samantha Morris,61242,Production Technician I,MA,2072-09-11,F,Single,2012-11-05,Active,Production       ,LinkedIn,Fully Meets,4,3,12.923287671232877
+141,Benjamin Young,45069,Production Technician I,MA,2066-03-22,F,Divorced,2013-09-30,Active,Production       ,Employee Referral,Fully Meets,4,5,12.021917808219179
+142,Elizabeth Campbell,60724,Production Technician II,MA,1986-11-06,F,Divorced,2011-07-05,Active,Production       ,LinkedIn,Exceeds,4,4,14.263013698630138
+143,Jacob Richardson,60436,Production Technician I,MA,2064-04-13,F,Separated,2014-01-06,Active,Production       ,LinkedIn,Fully Meets,5,5,11.753424657534246
+144,Ashley Jenkins,46837,Production Technician I,MA,2059-08-19,M ,Married,2011-11-07,Voluntarily Terminated,Production       ,CareerBuilder,Exceeds,4,4,13.92054794520548
+145,Alexander Martin,105700,Database Administrator,MA,1986-11-07,F,Married,2015-01-05,Active,IT/IS,Indeed,Fully Meets,3,3,10.756164383561643
+146,Nicole Patterson,63322,Production Technician II,MA,2069-09-08,F,Single,2014-07-07,Active,Production       ,LinkedIn,Exceeds,4,3,11.254794520547945
+147,Kevin Turner,61154,Production Technician I,MA,1986-04-17,F,Married,2011-01-10,Voluntarily Terminated,Production       ,CareerBuilder,Fully Meets,4,4,14.745205479452055
+148,Lindsey Collins,68999,Sales Manager,PA,1989-11-11,F,Single,2011-11-07,Voluntarily Terminated,Sales,Google Search,Fully Meets,4,5,13.92054794520548
+149,Michael Thompson,50482,Production Technician I,MA,1976-01-19,M ,Single,2013-09-30,Active,Production       ,Indeed,Fully Meets,3,4,12.021917808219179
+150,Amanda Simmons,65310,Area Sales Manager,CO,1979-11-27,M ,Single,2013-08-19,Active,Sales,Indeed,Fully Meets,4,5,12.136986301369863
+151,Christopher Smith,250000,President & CEO,MA,2054-09-21,F,Married,2012-07-02,Active,Executive Office,Indeed,Fully Meets,4,3,13.26849315068493
+152,Calvin Brooks,54005,Production Technician I,MA,2073-12-08,F,Married,2011-09-26,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,5,14.035616438356165
+153,Emily Watson,45433,Production Technician I,MA,2070-10-08,F,Married,2011-09-26,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,4,14.035616438356165
+154,Owen Stewart,46654,Production Technician I,MA,1977-11-10,M ,Single,2014-02-17,Active,Production       ,LinkedIn,Fully Meets,3,3,11.638356164383561
+155,Lily Anderson,63973,Production Technician I,MA,1980-02-02,M ,Married,2011-01-10,Active,Production       ,Indeed,Fully Meets,3,3,14.745205479452055
+156,Gabriel Murphy,71339,Area Sales Manager,NY,2069-02-24,M ,Single,2011-03-07,Active,Sales,Diversity Job Fair,Fully Meets,3,5,14.591780821917808
+157,Sophia Mitchell,93206,Sr. Network Engineer,MA,1986-04-23,M ,Married,2014-11-10,Active,IT/IS,Employee Referral,Fully Meets,4,5,10.90958904109589
+158,Elijah Campbell,82758,Production Manager,MA,2072-07-01,M ,Married,2011-01-10,Terminated for Cause,Production       ,Employee Referral,Fully Meets,4,4,14.745205479452055
+159,Ava Bennett,66074,Production Technician II,MA,1979-07-25,F,Divorced,2013-01-07,Voluntarily Terminated,Production       ,Indeed,Fully Meets,4,3,12.75068493150685
+160,Julian Sanchez,46120,Production Technician I,MA,1986-12-09,M ,Married,2012-07-09,Active,Production       ,LinkedIn,Fully Meets,5,5,13.24931506849315
+161,Grace Roberts,64520,Accountant I,MA,1984-04-26,M ,Divorced,2014-01-06,Active,Admin Offices,Website,Fully Meets,5,4,11.753424657534246
+162,Isaac Foster,61962,Production Technician II,MA,1984-05-09,M ,Married,2012-04-02,Voluntarily Terminated,Production       ,Google Search,Fully Meets,4,3,13.517808219178082
+163,Olivia Henderson,81584,Senior BI Developer,MA,1987-06-14,F,Single,2016-10-02,Active,IT/IS,Indeed,Fully Meets,4,5,9.013698630136986
+164,Mason Clarke,63676,Production Technician I,MA,1979-01-17,F,Single,2011-09-26,Voluntarily Terminated,Production       ,CareerBuilder,Fully Meets,4,3,14.035616438356165
+165,Chloe Lewis,93046,Shared Services Manager,MA,1984-06-10,M ,Married,2016-01-05,Active,Admin Offices,CareerBuilder,Fully Meets,4,4,9.756164383561643
+166,Samuel Rivera,64738,Production Technician I,MA,1982-09-02,M ,Married,2012-05-14,Active,Production       ,Google Search,Fully Meets,4,3,13.402739726027397
+167,Harper Price,70468,Area Sales Manager,UT,1988-12-27,M ,Separated,2012-04-30,Active,Sales,Website,Fully Meets,4,3,13.441095890410958
+168,Ethan Adams,77915,Production Manager,MA,1981-10-26,F,Married,2013-09-30,Active,Production       ,Website,Exceeds,4,3,12.021917808219179
+169,Amelia Bryant,52624,Production Technician I,MA,1981-03-26,F,Married,2011-07-05,Voluntarily Terminated,Production       ,Indeed,Fully Meets,3,4,14.263013698630138
+170,Benjamin Carter,63450,Production Technician II,MA,1979-03-19,M ,Married,2013-07-08,Active,Production       ,LinkedIn,Fully Meets,4,3,12.252054794520548
+171,Scarlett Hughes,51777,IT Support,CT,1988-10-05,F,Single,2011-01-21,Active,IT/IS,Diversity Job Fair,Exceeds,4,4,14.715068493150685
+172,Liam Turner,67237,Production Technician II,MA,1976-12-26,F,Widowed,2013-07-08,Voluntarily Terminated,Production       ,LinkedIn,Fully Meets,4,4,12.252054794520548
+173,Abigail Reed,73330,Production Technician II,MA,1982-03-28,F,Single,2013-08-19,Active,Production       ,Indeed,Exceeds,4,4,12.136986301369863
+174,Caleb Morgan,52057,Production Technician I,MA,1975-10-22,F,Married,2015-02-16,Active,Production       ,Website,Fully Meets,5,3,10.64109589041096
+175,Sofia Wright,47434,Production Technician I,MA,2073-02-14,F,Single,2011-11-07,Voluntarily Terminated,Production       ,Diversity Job Fair,Exceeds,5,4,13.92054794520548
+176,Henry Gonzalez,52788,Production Technician I,MA,2072-11-09,M ,Widowed,2012-09-24,Voluntarily Terminated,Production       ,Indeed,Fully Meets,3,4,13.038356164383561
+177,Victoria Parker,45395,Production Technician I,MA,1986-07-07,F,Single,2014-01-06,Active,Production       ,LinkedIn,Fully Meets,4,4,11.753424657534246
+178,Alexander Jenkins,62385,Production Technician II,MA,1976-08-25,F,Married,2016-05-11,Active,Production       ,LinkedIn,Fully Meets,5,3,9.408219178082192
+179,Lucy Bell,68407,Production Technician II,MA,1986-12-10,F,Married,2011-07-05,Voluntarily Terminated,Production       ,LinkedIn,Fully Meets,5,4,14.263013698630138
+180,Daniel Ramirez,61349,Production Technician I,MA,2074-11-07,F,Married,2013-11-11,Active,Production       ,LinkedIn,Fully Meets,4,3,11.906849315068493
+181,Stella Nelson,105688,Software Engineer,MA,1987-11-07,F,Single,2013-11-11,Active,Engineering,Google Search,Fully Meets,4,5,11.906849315068493
+182,Jackson Cox,54132,Production Technician I,MA,1977-11-22,F,Married,2011-05-31,Active,Production       ,Indeed,Fully Meets,5,4,14.35890410958904
+183,Isabella Simmons,55315,Production Technician II,MA,1987-05-21,F,Single,2015-03-30,Active,Production       ,LinkedIn,Fully Meets,5,5,10.526027397260274
+184,Noah Ward,62810,Production Technician I,MA,1987-01-07,F,Married,2013-01-07,Active,Production       ,CareerBuilder,Fully Meets,3,3,12.75068493150685
+185,Riley Rodriguez,63291,Area Sales Manager,TX,1984-07-01,M ,Married,2016-07-06,Active,Sales,Website,Fully Meets,3,4,9.254794520547945
+186,Aiden Gray,62659,Production Technician I,MA,2068-05-30,F,Single,2012-04-02,Voluntarily Terminated,Production       ,Diversity Job Fair,Fully Meets,4,4,13.517808219178082
+187,Aurora Hayes,55688,Production Technician I,MA,1976-09-22,F,Single,2015-03-30,Active,Production       ,CareerBuilder,Fully Meets,5,4,10.526027397260274
+188,Carter Richardson,83667,Production Manager,MA,1981-08-10,M ,Single,2012-08-16,Active,Production       ,Indeed,Fully Meets,4,3,13.145205479452056
+189,Penelope Evans,55800,Production Technician II,MA,1985-06-29,M ,Single,2011-08-15,Voluntarily Terminated,Production       ,LinkedIn,PIP,3,2,14.150684931506849
+190,Logan Taylor,58207,Production Technician II,MA,1992-08-17,M ,Married,2011-11-07,Active,Production       ,LinkedIn,Fully Meets,3,3,13.92054794520548
+191,Harper Morris,157000,IT Manager - Infra,MA,1986-10-05,M ,Married,2012-02-15,Active,IT/IS,Diversity Job Fair,Needs Improvement,2,3,13.646575342465754
+192,Matthew Green,72460,Production Technician II,MA,2070-04-24,F,Single,2013-05-13,Active,Production       ,Indeed,Exceeds,4,3,12.405479452054795
+193,Zoey Baker,72106,Production Technician II,MA,1976-12-03,M ,Single,2012-01-09,Active,Production       ,Diversity Job Fair,Fully Meets,4,4,13.747945205479452
+194,David Phillips,52599,Network Engineer,MA,1979-04-04,F,Married,2015-02-16,Active,IT/IS,CareerBuilder,Fully Meets,3,3,10.64109589041096
+195,Mila Butler,63430,Production Technician I,MA,1984-07-07,F,Divorced,2013-04-01,Active,Production       ,LinkedIn,Fully Meets,4,4,12.520547945205479
+196,Joseph King,74417,Production Technician II,MA,2074-12-01,M ,Separated,2013-05-13,Active,Production       ,LinkedIn,Fully Meets,4,5,12.405479452054795
+197,Avery Coleman,57575,Production Technician I,MA,1980-04-18,M ,Single,2013-07-08,Active,Production       ,LinkedIn,Fully Meets,4,4,12.252054794520548
+198,Sebastian Smith,87921,Senior BI Developer,MA,2070-04-25,M ,Single,2017-02-10,Active,IT/IS,Indeed,Fully Meets,5,3,8.654794520547945
+199,Eleanor White,50470,Production Technician I,MA,1989-05-02,M ,Single,2011-09-26,Voluntarily Terminated,Production       ,Diversity Job Fair,Fully Meets,4,3,14.035616438356165
+200,Leo Turner,46664,Production Technician I,MA,1983-03-28,M ,Married,2013-04-01,Voluntarily Terminated,Production       ,Employee Referral,Fully Meets,3,3,12.520547945205479
+201,Addison Adams,48495,Production Technician I,MA,1977-04-08,M ,Married,2014-05-12,Active,Production       ,LinkedIn,Fully Meets,5,5,11.408219178082192
+202,Andrew Martin,52984,Production Technician I,MA,2067-06-03,F,Separated,2013-04-01,Active,Production       ,Diversity Job Fair,Exceeds,4,3,12.520547945205479
+203,Brooklyn Peterson,63695,Area Sales Manager,GA,1989-03-31,F,Single,2013-07-08,Active,Sales,Indeed,Fully Meets,5,5,12.252054794520548
+204,Nathan Clark,62061,Production Technician I,MA,1984-07-07,F,Single,2013-07-08,Active,Production       ,LinkedIn,Fully Meets,3,5,12.252054794520548
+205,Leah Morris,66738,Production Technician II,MA,1985-11-23,F,Single,2014-11-10,Active,Production       ,Indeed,Fully Meets,4,5,10.90958904109589
+206,Jack Hill,52674,Production Technician I,MA,1980-09-30,F,Single,2014-03-31,Terminated for Cause,Production       ,LinkedIn,PIP,2,2,11.523287671232877
+207,Grace Ross,71966,Production Technician II,MA,2052-02-11,F,Married,2012-05-14,Voluntarily Terminated,Production       ,LinkedIn,Fully Meets,5,3,13.402739726027397
+208,Ryan Mitchell,63051,Area Sales Manager,FL,1990-05-11,F,Single,2013-09-30,Active,Sales,Indeed,Fully Meets,4,3,12.021917808219179
+209,Madison Collins,47414,Production Technician I,MA,1976-12-11,M ,Married,2013-09-30,Active,Production       ,LinkedIn,Exceeds,5,3,12.021917808219179
+210,Gabriel Thompson,53060,Production Technician I,MA,1979-11-24,M ,Single,2014-02-17,Active,Production       ,LinkedIn,Needs Improvement,4,3,11.638356164383561
+211,Emily Cooper,68829,Area Sales Manager,NC,1982-05-19,M ,Single,2015-01-05,Active,Sales,Website,Fully Meets,5,5,10.756164383561643
+212,Dylan Martinez,63515,Production Technician I,MA,1979-05-01,F,Married,2011-02-07,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,4,14.668493150684931
+213,Hazel Watson,108987,Software Engineer,MA,1979-02-20,M ,Single,2011-11-07,Voluntarily Terminated,Engineering,Diversity Job Fair,Exceeds,5,5,13.92054794520548
+214,Zachary Stewart,93093,Data Analyst,MA,1984-09-05,M ,Married,2014-12-01,Voluntarily Terminated,IT/IS,Employee Referral,Fully Meets,4,4,10.852054794520548
+215,Audrey Anderson,53564,Production Technician I,MA,1988-03-17,M ,Single,2011-01-10,Voluntarily Terminated,Production       ,Google Search,Needs Improvement,3,5,14.745205479452055
+216,William Murphy,60270,Production Technician II,MA,1989-07-18,F,Married,2011-07-05,Voluntarily Terminated,Production       ,CareerBuilder,Needs Improvement,2,5,14.263013698630138
+217,Scarlett Mitchell,45998,Production Technician I,MA,1986-07-20,F,Single,2011-05-16,Voluntarily Terminated,Production       ,LinkedIn,Fully Meets,3,4,14.4
+218,Samuel Campbell,57954,Production Technician II,MA,1986-08-17,F,Married,2011-05-16,Voluntarily Terminated,Production       ,Indeed,Exceeds,4,5,14.4
+219,Lila Bennett,74669,Production Manager,MA,1977-05-09,F,Married,2010-10-25,Voluntarily Terminated,Production       ,Indeed,Fully Meets,4,5,14.956164383561644
+220,Oliver Sanchez,74226,Production Technician II,MA,1979-03-10,F,Married,2012-04-02,Active,Production       ,LinkedIn,Fully Meets,4,3,13.517808219178082
+221,Victoria Roberts,93554,Data Analyst,MA,1984-09-16,F,Married,2014-11-10,Active,IT/IS,Employee Referral,Exceeds,4,5,10.90958904109589
+222,Daniel Foster,64724,Production Technician I,MA,1988-03-06,M ,Married,2011-07-05,Voluntarily Terminated,Production       ,Google Search,Fully Meets,5,3,14.263013698630138
+223,Stella Henderson,47001,Production Technician I,MA,1981-11-23,M ,Single,2007-11-05,Active,Production       ,Google Search,Fully Meets,3,3,17.92876712328767
+224,James Clarke,61844,Area Sales Manager,KY,1988-08-29,F,Married,2012-01-09,Active,Sales,Website,Fully Meets,4,5,13.747945205479452
+225,Ava Lewis,46799,Production Technician I,MA,1984-10-15,F,Divorced,2011-05-16,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,4,14.4
+226,Ethan Rivera,59472,Production Technician I,MA,2061-06-19,M ,Single,2014-01-06,Active,Production       ,Employee Referral,Fully Meets,4,3,11.753424657534246
+227,Sophia Price,46430,Production Technician I,MA,2070-09-22,F,Divorced,2012-09-24,Voluntarily Terminated,Production       ,Indeed,Fully Meets,4,5,13.038356164383561
+228,Elijah Adams,83363,Software Engineer,MA,1984-11-06,M ,Married,2011-02-21,Voluntarily Terminated,Engineering,Diversity Job Fair,Fully Meets,4,4,14.63013698630137
+229,Lily Bryant,95920,BI Developer,MA,1980-05-12,F,Married,2016-10-02,Active,IT/IS,Indeed,Fully Meets,4,4,9.013698630136986
+230,Gabriel Carter,61729,Production Technician I,MA,1984-12-31,M ,Divorced,2011-09-26,Voluntarily Terminated,Production       ,Indeed,Fully Meets,3,5,14.035616438356165
+231,Chloe Hughes,61809,Area Sales Manager,ID,2054-10-12,M ,Married,2014-05-12,Active,Sales,CareerBuilder,Fully Meets,3,3,11.408219178082192
+232,Owen Turner,45115,Production Technician I,MA,1982-07-22,M ,Divorced,2011-05-16,Voluntarily Terminated,Production       ,LinkedIn,Fully Meets,5,4,14.4
+233,Grace Reed,46738,Production Technician I,MA,2073-01-12,F,Married,2011-11-28,Active,Production       ,Google Search,Exceeds,4,5,13.863013698630137
+234,Isaac Morgan,64971,Production Technician II,MA,1981-09-05,F,Divorced,2011-09-26,Voluntarily Terminated,Production       ,Google Search,Fully Meets,4,4,14.035616438356165
+235,Olivia Wright,55578,Production Technician II,MA,2072-07-03,M ,Married,2011-07-05,Voluntarily Terminated,Production       ,Indeed,Fully Meets,4,5,14.263013698630138
+236,Benjamin Gonzalez,50428,Production Technician I,MA,2074-01-07,M ,Married,2011-01-10,Voluntarily Terminated,Production       ,Indeed,Fully Meets,5,3,14.745205479452055
+237,Harper Parker,61422,Production Technician I,MA,1985-01-07,F,Married,2011-01-10,Terminated for Cause,Production       ,Indeed,Needs Improvement,3,3,14.745205479452055
+238,Mason Jenkins,63353,Production Technician I,MA,1985-01-28,M ,Widowed,2013-07-08,Active,Production       ,Employee Referral,Exceeds,3,5,12.252054794520548
+239,Amelia Bell,89883,Data Analyst,MA,1981-10-11,F,Married,2015-02-16,Active,IT/IS,Employee Referral,Fully Meets,3,5,10.64109589041096
+240,Samuel Ramirez,120000,Principal Data Architect,MA,2073-05-27,F,Single,2015-01-05,Voluntarily Terminated,IT/IS,LinkedIn,Fully Meets,3,3,10.756164383561643
+241,Ava Nelson,150290,Data Architect,MA,2072-11-21,F,Single,2017-01-07,Active,IT/IS,Indeed,Fully Meets,4,3,8.747945205479452
+242,Julian Cox,60627,Production Technician I,MA,2074-12-05,F,Separated,2014-01-06,Active,Production       ,Website,Fully Meets,5,4,11.753424657534246
+243,Emily Simmons,53180,Production Technician I,MA,1987-03-18,M ,Single,2011-04-04,Voluntarily Terminated,Production       ,Google Search,Fully Meets,5,5,14.515068493150684
+244,Liam Ward,140920,IT Manager - DB,MA,2073-04-05,M ,Single,2013-01-20,Active,IT/IS,Indeed,Fully Meets,3,5,12.715068493150685
+245,Abigail Rodriguez,148999,IT Manager - DB,MA,2064-01-04,M ,Divorced,2012-01-09,Voluntarily Terminated,IT/IS,Diversity Job Fair,Fully Meets,4,4,13.747945205479452
+246,Caleb Gray,86214,Software Engineer,MA,1986-07-24,F,Married,2012-11-05,Active,Engineering,Indeed,Fully Meets,4,3,12.923287671232877
+247,Sofia Hayes,47750,Production Technician I,MA,2068-06-06,F,Single,2016-07-04,Active,Production       ,Diversity Job Fair,Needs Improvement,2,4,9.26027397260274
+248,Henry Richardson,46428,Production Technician I,MA,2074-12-21,M ,Single,2009-01-05,Voluntarily Terminated,Production       ,Google Search,Fully Meets,4,5,16.75890410958904
+249,Victoria Evans,57975,Production Technician II,MA,1986-04-26,M ,Married,2010-08-30,Active,Production       ,CareerBuilder,Fully Meets,4,3,15.10958904109589
+250,Alexander Green,88527,Data Analyst ,MA,1987-12-17,M ,Divorced,2015-01-05,Voluntarily Terminated,IT/IS,LinkedIn,Fully Meets,4,3,10.756164383561643
+251,Lucy Baker,56147,Production Technician I,MA,1988-07-10,F,Married,2014-09-29,Active,Production       ,LinkedIn,Fully Meets,3,3,11.024657534246575
+252,Kwame Adu,50923,Production Technician I,MA,1975-03-10,F,Single,2013-09-30,Active,Production       ,Google Search,Fully Meets,5,5,12.021917808219179
+253,Abena Mensah,50750,Network Engineer,MA,1981-04-14,F,Married,2014-09-30,Active,IT/IS,LinkedIn,Fully Meets,3,3,11.021917808219179
+254,Kofi Osei,52087,Production Technician I,MA,1985-08-24,F,Married,2013-08-19,Active,Production       ,LinkedIn,Fully Meets,4,4,12.136986301369863
+255,Akua Boateng,87826,Data Analyst,MA,2070-02-08,M ,Married,2015-01-05,Active,IT/IS,Employee Referral,Fully Meets,3,3,10.756164383561643
+256,Nana Acheampong,51920,Administrative Assistant,MA,1988-05-19,F,Single,2015-05-01,Active,Admin Offices,Website,Fully Meets,5,3,10.438356164383562
+257,Esi Amponsah,63878,Production Technician II,MA,1987-11-25,F,Single,2009-10-26,Voluntarily Terminated,Production       ,CareerBuilder,Fully Meets,4,4,15.953424657534246
+258,Kwadwo Owusu,60656,Production Technician II,MA,2063-10-30,M ,Single,2014-09-29,Active,Production       ,Indeed,Exceeds,4,3,11.024657534246575
+259,Ama Gyasi,72992,Sales Manager,MA,1984-08-16,M ,Divorced,2014-05-18,Active,Sales,Diversity Job Fair,Needs Improvement,2,4,11.391780821917807
+260,Kojo Ansah,55000,Administrative Assistant,MA,1987-06-14,F,Married,2011-09-26,Voluntarily Terminated,Admin Offices,Diversity Job Fair,Fully Meets,3,4,14.035616438356165
+261,Yaa Appiah,58939,Production Technician I,MA,2065-02-02,F,Single,2013-11-11,Active,Production       ,Employee Referral,Fully Meets,3,3,11.906849315068493
+262,Kwesi Mensah,66593,IT Support,MA,2073-03-12,F,Married,2011-06-10,Active,IT/IS,LinkedIn,Fully Meets,4,3,14.331506849315069
+263,Afia Darko,87565,Sr. Network Engineer,MA,1983-02-09,M ,Married,2016-06-30,Active,IT/IS,LinkedIn,Fully Meets,3,4,9.271232876712329
+264,Kwabena Boateng,64021,Production Technician I,MA,2068-07-20,F,Married,2012-02-20,Active,Production       ,Indeed,PIP,2,2,13.632876712328768
+265,Adwoa Agyemang,65714,Production Manager,MA,1975-09-30,F,Married,2012-10-02,Active,Production       ,LinkedIn,Fully Meets,4,5,13.016438356164384
+266,Nii Tetteh,62425,Production Technician I,MA,2073-03-26,F,Divorced,2013-05-13,Voluntarily Terminated,Production       ,LinkedIn,Exceeds,4,4,12.405479452054795
+267,Maa Anokye,47961,Production Technician I,MA,1982-08-25,F,Divorced,2011-01-10,Active,Production       ,Google Search,Fully Meets,4,4,14.745205479452055
+268,Kweku Asante,58273,Area Sales Manager,NV,2074-05-09,M ,Married,2014-05-12,Active,Sales,Website,PIP,1,2,11.408219178082192
+269,Aba Obeng,63003,Accountant I,MA,1986-09-01,M ,Single,2014-09-29,Active,Admin Offices,Indeed,Fully Meets,3,5,11.024657534246575
+270,Kwaku Ofori,61355,Production Technician I,MA,1985-03-14,M ,Married,2014-02-17,Active,Production       ,LinkedIn,Fully Meets,4,3,11.638356164383561
+271,Akosua Adu,60120,Area Sales Manager,MT,1989-05-12,F,Married,2010-09-27,Active,Sales,Indeed,Fully Meets,4,4,15.032876712328767
+272,Kobby Osei,63682,Production Manager,MA,1978-03-28,F,Married,2009-01-08,Active,Production       ,Indeed,Fully Meets,3,4,16.75068493150685
+273,Adwoa Asare,63025,Production Technician I,MA,1982-10-07,M ,Married,2015-01-05,Active,Production       ,Google Search,Fully Meets,4,5,10.756164383561643
+274,Kojo Amoah,59238,Production Technician I,MA,2068-08-15,F,Single,2012-05-14,Active,Production       ,Indeed,Fully Meets,3,5,13.402739726027397
+275,Efia Yeboah,92989,Software Engineer,MA,1983-05-06,M ,Single,2014-07-07,Active,Engineering,LinkedIn,Exceeds,4,5,11.254794520547945
+276,Kwame Addo,90100,BI Developer,MA,1987-10-24,M ,Married,2017-04-20,Active,IT/IS,Indeed,Fully Meets,3,3,8.465753424657533
+277,Akua Owusu,60754,Production Technician I,MA,1975-04-03,F,Married,2009-04-27,Voluntarily Terminated,Production       ,Diversity Job Fair,Fully Meets,4,5,16.45205479452055
+278,Kwesi Acheampong,72202,Production Technician II,MA,2053-05-24,F,Married,2011-05-16,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,3,14.4
+279,Ama Mensah,58370,Area Sales Manager,OR,2065-05-07,F,Single,2014-09-29,Active,Sales,Indeed,Fully Meets,3,3,11.024657534246575
+280,Nana Boateng,48413,Production Technician I,MA,2065-05-09,F,Single,2011-07-05,Voluntarily Terminated,Production       ,Indeed,Fully Meets,3,4,14.263013698630138
+281,Esi Amankwah,67176,Production Technician II,MA,1975-09-16,M ,Widowed,2007-06-25,Voluntarily Terminated,Production       ,Other,Fully Meets,4,4,18.293150684931508
+282,Kofi Appiah,56339,Production Technician I,MA,2067-06-05,F,Divorced,2013-02-18,Active,Production       ,Indeed,Fully Meets,4,5,12.635616438356164
+283,Abena Adjei,64397,Area Sales Manager,ND,2068-01-15,M ,Separated,2006-01-09,Active,Sales,Indeed,Exceeds,4,3,19.75068493150685
+284,Kojo Ampofo,63025,Production Technician I,MA,1983-05-16,F,Single,2014-02-17,Active,Production       ,LinkedIn,Needs Improvement,2,5,11.638356164383561
+285,Yaa Ansah,75281,Network Engineer,MA,1988-05-05,M ,Married,2015-01-05,Voluntarily Terminated,IT/IS,CareerBuilder,Fully Meets,5,3,10.756164383561643
+286,Kwadwo Darko,100416,Software Engineer,MA,1983-06-14,M ,Single,2013-02-18,Voluntarily Terminated,Engineering,Diversity Job Fair,Fully Meets,4,3,12.635616438356164
+287,Akua Addo,74813,Production Technician II,MA,1985-03-15,F,Single,2011-01-10,Voluntarily Terminated,Production       ,LinkedIn,Fully Meets,4,3,14.745205479452055
+288,Kweku Agyemang,76029,Network Engineer,MA,2069-03-31,M ,Married,2015-03-30,Active,IT/IS,Employee Referral,Fully Meets,5,4,10.526027397260274
+289,Afia Mensah,57859,Area Sales Manager,AZ,1991-05-23,F,Married,2011-07-05,Active,Sales,Indeed,Fully Meets,2,3,14.263013698630138
+290,Kwabena Osei,58523,Production Technician I,MA,1987-01-31,M ,Divorced,2012-08-13,Voluntarily Terminated,Production       ,LinkedIn,Exceeds,4,5,13.153424657534247
+291,Ama Gyamfi,88976,Production Manager,MA,2068-10-10,M ,Divorced,2011-08-01,Active,Production       ,Employee Referral,Fully Meets,3,3,14.189041095890412
+292,Nii Amponsah,55875,Area Sales Manager,ME,1989-07-11,M ,Single,2012-03-05,Active,Sales,Website,Fully Meets,4,4,13.594520547945205
+293,Adwoa Boateng,113999,Database Administrator,MA,1986-08-07,M ,Married,2015-02-16,Terminated for Cause,IT/IS,Employee Referral,Fully Meets,4,3,10.64109589041096
+294,Kobby Asamoah,49773,Production Technician I,MA,1986-06-03,F,Married,2011-09-26,Terminated for Cause,Production       ,Google Search,Exceeds,4,5,14.035616438356165
+295,Akosua Badu,62068,Production Technician I,MA,1985-04-06,F,Single,2015-07-05,Active,Production       ,LinkedIn,Fully Meets,3,3,10.26027397260274
+296,Kwaku Nkrumah,66541,Production Technician II,MA,1976-02-10,M ,Single,2014-08-18,Active,Production       ,Employee Referral,Fully Meets,3,5,11.139726027397261
+297,Aba Agyei,80512,Production Manager,MA,2055-11-14,F,Married,2011-09-26,Voluntarily Terminated,Production       ,Diversity Job Fair,Fully Meets,4,3,14.035616438356165
+298,Kwame Bonsu,50274,Production Technician I,MA,1980-08-02,F,Single,2012-08-13,Voluntarily Terminated,Production       ,CareerBuilder,Needs Improvement,2,3,13.153424657534247
+299,Kojo Anane,84903,Senior BI Developer,MA,1981-07-08,M ,Single,2017-02-15,Active,IT/IS,Indeed,Fully Meets,3,4,8.64109589041096
+300,Efia Owusu,107226,Sr. Network Engineer,MA,1978-05-02,F,Widowed,2015-03-30,Active,IT/IS,Employee Referral,Fully Meets,4,4,10.526027397260274
+301,Kwesi Arthur,58371,Production Technician I,MA,1987-05-24,M ,Single,2011-01-10,Voluntarily Terminated,Production       ,LinkedIn,Fully Meets,5,5,14.745205479452055
+302,Akua Anokye,55140,Production Technician I,MA,2065-09-09,M ,Married,2011-05-16,Voluntarily Terminated,Production       ,Website,Fully Meets,5,3,14.4
+303,Kwabena Asamoah,58062,Production Technician I,MA,1983-07-30,F,Divorced,2011-01-10,Voluntarily Terminated,Production       ,Google Search,Fully Meets,3,5,14.745205479452055
+304,Ama Asante,59728,Production Technician I,MA,2069-10-02,F,Single,2012-01-09,Voluntarily Terminated,Production       ,Diversity Job Fair,Fully Meets,4,4,13.747945205479452
+305,Kofi Mensah,70507,Production Technician II,MA,2058-11-07,M ,Single,2013-01-07,Voluntarily Terminated,Production       ,LinkedIn,Exceeds,5,3,12.75068493150685
+306,Abena Yeboah,60446,Production Technician II,MA,1985-04-20,F,Single,2014-09-29,Active,Production       ,LinkedIn,Fully Meets,3,4,11.024657534246575
+307,Nana Asare,65893,Production Technician II,MA,1985-05-11,M ,Single,2014-07-07,Active,Production       ,LinkedIn,Fully Meets,4,4,11.254794520547945
+308,Yaa Yeboah,48513,Production Technician I,MA,1982-05-04,F,Single,2008-09-02,Voluntarily Terminated,Production       ,Google Search,PIP,3,2,17.101369863013698
+309,Kojo Ofori,220450,CIO,MA,1979-08-30,F,Single,2010-04-10,Active,IT/IS,Employee Referral,Exceeds,4,5,15.498630136986302
+310,Esi Amoako,89292,Data Analyst,MA,1979-02-24,F,Single,2015-03-30,Active,IT/IS,Employee Referral,Fully Meets,5,3,10.526027397260274
+311,Kweku Annan,45046,Production Technician I,MA,1978-08-17,F,Widowed,2014-09-29,Active,Production       ,LinkedIn,Fully Meets,4,5,11.024657534246575

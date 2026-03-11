@@ -1,0 +1,29 @@
+Of course. Here is a brief overview of the entire process we've worked through on your project.
+
+1. Foundation and Single-Image Tool
+We started by setting up your project environment and writing the first script to annotate a single DICOM image using the Snake Algorithm.
+
+2. Algorithm Refinement
+We tuned the algorithm's parameters (alpha, beta, gamma) to improve accuracy and fixed a critical bug related to the image data format to prevent the algorithm from collapsing.
+
+3. Scaling to a Full DICOM Series
+We upgraded the tool to process an entire folder of DICOM images. This introduced annotation propagation, where the annotation from one slice is automatically carried over to the next to speed up the process.
+
+4. Advanced Annotation Features
+The main annotation script was enhanced to handle real-world complexity, allowing you to:
+
+Annotate multiple anomalies on a single image.
+
+Switch between different anatomical structures mid-way through a case.
+
+5. Image Enhancement Pipeline
+We developed and integrated a preprocessing pipeline using DICOM Windowing and CLAHE to automatically improve the contrast and clarity of every image before you annotate it.
+
+6. AI Model Training & Active Learning
+This was the final phase where we built the machine learning workflow:
+
+Data Generation: We created scripts to save your annotations as JSON files and automatically convert them into segmentation masks.
+
+Baseline Model: We wrote a script to train a U-Net model on your initial Case1 data, which produced your first AI model.
+
+Active Learning Loop: We created the final script that uses your trained model to intelligently find the most "confusing" unlabeled images in a new case (like Case2), telling you exactly which files to annotate next to be most efficient.
